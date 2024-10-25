@@ -41,7 +41,7 @@ deve ser considerado como uma primeira etapa de uma longa caminhada nessa liguag
 
 ## Estruturação das pastas no repositório
 
-projeto-web-iniciante/        # Repositório
+simple-currency-converter/    # Repositório
 ├── Conversor_Monetario/      # Pasta Principal
 │   ├── index.html            # Página principal
 │   ├── src/                  # Subpasta principal
