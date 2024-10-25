@@ -42,7 +42,7 @@ should be considered as a first step in a long journey in this programming langu
 
 ## Repository Folder Structure
 
-projeto-web-iniciante/        # Repository
+simple-currency-converter/    # Repository
 ├── Conversor_Monetario/      # Main Folder
 │   ├── index.html            # Main Page
 │   ├── src/                  # Main Subfolder
