@@ -40,7 +40,7 @@ deve ser considerado como uma primeira etapa de uma longa caminhada nessa liguag
 - [GitHub Pages](https://pages.github.com/) (para hospedar o site de maneira gratuita).
 
 ## Estruturação das pastas no repositório
-
+```
 simple-currency-converter/    # Repositório
 ├── Conversor_Monetario/      # Pasta Principal
 │   ├── index.html            # Página principal
@@ -51,7 +51,7 @@ simple-currency-converter/    # Repositório
             ├── font/         # Subpasta da fonte         
 │       └── js/               # Subpasta de interação
 └── README.md
-
+```
 ## Observação
 
 O arquivo "index.js" não teve o intuito de trabalhar com requisições via API,
