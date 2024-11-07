@@ -41,7 +41,7 @@ should be considered as a first step in a long journey in this programming langu
 - [GitHub Pages](https://pages.github.com/) (to host the website for free).
 
 ## Repository Folder Structure
-
+```
 simple-currency-converter/    # Repository
 ├── Conversor_Monetario/      # Main Folder
 │   ├── index.html            # Main Page
@@ -52,7 +52,7 @@ simple-currency-converter/    # Repository
             ├── font/         # Font Subfolder         
 │       └── js/               # Interaction Subfolder
 └── README.md
-
+```
 ## Note
 
 The "index.js" file was not intended to handle API requests, so a fixed exchange rate value was used (for experimental purposes only).
